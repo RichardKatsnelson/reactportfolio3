@@ -101,6 +101,30 @@
                 "category": "Stock ticker and Crypto Price and News App",
                 "image": "HustleDataScreenshot.png",
                 "url": "https://carolynmary.github.io/hustle-data/"
+            },
+            {
+                "title": "BudgetTracker",
+                "category": "Track my withdrawals and deposits with or without a data/internet connection",
+                "image": "Budget-Tracker.png",
+                "url": "https://gentle-castle-98042.herokuapp.com/"
+            },
+            {
+                "title": "Fitness Tracker",
+                "category": "An app to help you keep track of your fitness progress",
+                "image": "Fitness-Tracker.png",
+                "url": "https://mighty-dusk-92507.herokuapp.com/?id=5fceb6bb32d7de0017297b54"
+            },
+            {
+                "title": "ExpressNoteTaker",
+                "category": "An express server app that takes notes for users and saves them locally",
+                "image": "Note-Taker.png",
+                "url": "https://secure-brook-17812.herokuapp.com/"
+            },
+            {
+                "title": "$Hustledata",
+                "category": "Stock ticker and Crypto Price and News App",
+                "image": "HustleDataScreenshot.png",
+                "url": "https://carolynmary.github.io/hustle-data/"
             }
         ]
     }
