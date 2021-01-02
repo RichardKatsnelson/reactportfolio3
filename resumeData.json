@@ -1,0 +1,107 @@
+{
+    "main": {
+        "name": "Richard Katsnelson",
+        "description": "",
+        "image": "mypic.jpg",
+        "bio": "Full Stack Web Developer with 6 years of experience in retail, customer service, high volume transactions and clients. Proficient at all aspects of a business from the bottom up. Known among co-workers and management as a hard worker and clever problem solver with a knack to help in all departments. Expected to earn a Certificate in Full Stack Web Development from Columbia University, New York.",
+        "contactmessage": "Get in contact with me here!",
+        "email": "rkatsnelson91@gmail.com",
+        "phone": "201-873-9020",
+        "github": "https://github.com/RichardKatsnelson",
+        "project": "https://github.com/RichardKatsnelson/ReactPortfolio",
+        "address": {
+            "street": "3-54 26th street",
+            "city": "Fair Lawn",
+            "state": "NJ",
+            "zip": "07410"
+        },
+        "website": "N/A",
+        "resumedownload": "https://drive.google.com/file/d/1JK-DDBTi_KNkHoUfMXNCDQhbRnU_W2pd/view?usp=sharing",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/richardkatsnelson/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/richard-katsnelson-8829b8136/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/couchpuma/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/RichardKatsnelson",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Full Stack Web Developer with 6 years of experience in retail, customer service, high volume transactions and clients. Proficient at all aspects of a business from the bottom up. Known among co-workers and management as a hard worker and clever problem solver with a knack to help in all departments. Expected to earn a Certificate in Full Stack Web Development from Columbia University, New York.",
+        "education": [{
+                "school": "Columbia University",
+                "degree": "Certificate in Full Stack Web Development",
+                "graduated": "January 2021",
+                "description": " HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS"
+            },
+            {
+                "school": "Bergen Community College",
+                "degree": "Associates In International trade",
+                "graduated": "August 2014",
+                "description": "Accounting, Marketing, Economics"
+            }
+        ],
+        "work": [{
+                "company": "Bullion Exchanges",
+                "title": "Executive Associate/ Senior Customer Relations Associate",
+                "years": "February 2015 - Present"
+            },
+            {
+                "company": "Golan Consulting",
+                "title": "Office manager/ Consultant  ",
+                "years": "July 2013 - October 2010"
+            }
+        ],
+        "skills": [{
+                "name": "ReactJs"
+
+            },
+            {
+                "name": "CSS"
+
+            },
+            {
+                "name": "PHP"
+            },
+            {
+                "name": "Swift"
+            },
+            {
+                "name": "JAVA"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Travel Weather Dashboard",
+                "category": "Weather Search App",
+                "image": "Weatherdashboard.jpg",
+                "url": "https://richardkatsnelson.github.io/TravelWeatherDashboard/"
+            },
+            {
+                "title": "$Hustledata",
+                "category": "Stock ticker and Crypto Price and News App",
+                "image": "HustleDataScreenshot.png",
+                "url": "https://carolynmary.github.io/hustle-data/"
+            }
+        ]
+    }
+}
